@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1591252552 source:d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\histogram.cpp
+	<vector>
+	"histogram.h"
+	<iostream>
+
+1602196274 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\histogram.h
+	<vector>
+	<string>
+	<sstream>
+
+1591252552 source:d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\svg.cpp
+	"svg.h"
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+
+1602196275 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\svg.h
+	<vector>
+	<string>
+	"histogram.h"
+	<windows.h>
+
+1602195145 source:d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<curl/curl.h>
+	<sstream>
+	"svg.h"
+	<windows.h>
+
+1597606120 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1597811878 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\curlver.h
+
+1596803892 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1596803892 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\easy.h
+
+1597606120 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\multi.h
+	"curl.h"
+
+1596803892 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\urlapi.h
+	"curl.h"
+
+1596803892 d:\МЭИ ТУ\Доп. материалы\lab 4.2 (работающий)\curl\include\curl\typecheck-gcc.h
+
